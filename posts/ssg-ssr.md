@@ -7,7 +7,7 @@ We recommend using **Static Generation** (with and without data) whenever possib
 
 You can use Static Generation for many types of pages, including:
 
-- Marketing pages
+- Marketing pages!
 - Blog posts
 - E-commerce product listings
 - Help and documentation
